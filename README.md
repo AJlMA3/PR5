@@ -86,5 +86,6 @@ EndDrawing();
 return 0;
 </code>
 <h2>8. Результат выполнения программы</h2>
-![image](https://github.com/user-attachments/assets/21e44945-00aa-4103-913a-2742666897be)
-
+<img width="650" src="https://github.com/user-attachments/assets/21e44945-00aa-4103-913a-2742666897be" />
+<img width="650" src="https://github.com/user-attachments/assets/d239ee67-bf75-4cce-b4c2-2825706b2c60" />
+<img width="650" src="https://github.com/user-attachments/assets/03be62a2-92e4-4278-af64-49311d141d86" />
